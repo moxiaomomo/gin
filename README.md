@@ -1,3 +1,4 @@
+# [中文简介](https://github.com/moxiaomomo/gin/blob/develop/README_zh_cn.md)
 
 #Gin Web Framework
 <img align="right" src="https://raw.githubusercontent.com/gin-gonic/gin/master/logo.jpg">
